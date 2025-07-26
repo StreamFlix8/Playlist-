@@ -1,7 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Movie1" group-title="Movies",Movie One HD
-http://103.237.37.181/server1/Movies/Hindi_Duaded/2025/Retro%20%282025%29/Retro.2025.Dual.ORG.1080p.HQ.mkv
-#EXTINF:-1 tvg-id="Movie2" group-title="Movies",Movie Two 720p
-http://103.237.37.181/server1/Movies/Hindi_Duaded/2025/Unstoppable%20%282025%29/Unstoppable%202025%20%20Dual%20Audio%20Hindi%201080p%20WEB-DL%20x264%20Multi%20Subs.mp4
-#EXTINF:-1 tvg-id="Channel1" group-title="Live",Live TV Channel
-http://103.237.37.181/server1/Movies/Hindi_Duaded/2025/Mission%20Impossible%20%20The%20Final%20Reckoning%20%282025%29/MI%20The%20Final%20Reckoning%202025%20Hindi%20HDTS%201080p.mkv
+https://public.publicbotshub.workers.dev/0:/Wind.Breaker.S02.1080p.AMZN.WEB-DL.Multi.DDP2.0.H.264-4kHdHub.Com/Wind.Breaker.S02.1080p.AMZN.WEB-DL.Multi.DDP2.0.H.264-4kHdHub.Com/Wind.Breaker.S02E12.Strength.for.Another.1080p.AMZN.WEB-DL.Multi.DDP2.0.H.264%20~%20MultiShows.mkv

@@ -1,0 +1,20 @@
+{
+  "Movies": [
+    {
+      "title": "Superman 2025",
+      "qualities": [
+        {"label": "1080p", "id": "ntjnpq5qa5tqtna"},
+        {"label": "4K", "id": "rwit2wctpiuiw51"}
+      ]
+    }
+  ],
+  "Series": [
+    {
+      "title": "Episode 1",
+      "qualities": [
+        {"label": "720p", "id": "efgh5678_720"},
+        {"label": "1080p", "id": "efgh5678_1080"}
+      ]
+    }
+  ]
+}

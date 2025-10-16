@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/original/iXYh7y0vI1DZR0taTuvrr8PSnOd.png",Movie: Inception (2010)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/original/iXYh7y0vI1DZR0taTuvrr8PSnOd.png",Movie: Inception (2010)
 https://proxy1.pixeldrainbypass.org/download/oBybD7Mo
 
 
@@ -13,6 +13,7 @@ https://proxy1.pixeldrainbypass.org/download/VPSwAmwK
 
 #EXTINF:-1 group-title="Peacemaker" tvg-logo="https://image.tmdb.org/t/p/original/tonL4WYbsRxJbIFPriQe3yPtt8n.png",S02E08
 https://pixeldrain.dev/api/file/Ad7GPW1n/info/zip/Peacemaker.S02.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Ms/Peacemaker.S02E08.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Ms.mkv
+
 
 
 

@@ -1,17 +1,9 @@
 #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:9999
+#EXT-X-MEDIA-SEQUENCE:0
 
-# --- 1080p video ---
-#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,AUDIO="audio_group"
+# duration is approximate; use actual duration if you know it
+#EXTINF:9999.000,
 https://proxy1.pixeldrainbypass.org/download/tqpmtZvv
-
-# --- 720p video ---
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,AUDIO="audio_group"
-https://proxy1.pixeldrainbypass.org/download/tqpmtZvv
-
-# --- 480p video ---
-#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480,AUDIO="audio_group"
-https://proxy1.pixeldrainbypass.org/download/tqpmtZvv
-
-# --- Audio Tracks ---
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_group",NAME="English",LANGUAGE="en",DEFAULT=YES,AUTOSELECT=YES,URI="audio_eng.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_group",NAME="Hindi",LANGUAGE="hi",DEFAULT=NO,AUTOSELECT=YES,URI="audio_hin.m3u8"
+#EXT-X-ENDLIST

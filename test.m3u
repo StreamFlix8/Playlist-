@@ -1,90 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/original/iXYh7y0vI1DZR0taTuvrr8PSnOd.png",Movie: Inception (2010)
-https://proxy1.pixeldrainbypass.org/download/oBybD7Mo
-#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/original/4NHs0s9WynldKaOpz2UhwD6ZLXe.jpg",Movie: Coolie (2025)
-https://bt7.api.mega.co.nz/cs/g?x=KS3vWFsBFL4A&n=TQ83yZxb&fn=Coolie.2025.1080p.HEVC.DS4K.WEB-DL.Hindi.5.1-Tamil.5.1.ESub.x265-HDHub4u.Ms.mkv
 
+# --- 1080p video ---
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080,AUDIO="audio_group"
+https://proxy1.pixeldrainbypass.org/download/tqpmtZvv
 
-#EXTINF:-1 group-title="Kurukshetra" tvg-logo="https://image.tmdb.org/t/p/original/gxDrBegd8URrxzo1baxegzS7aFj.png",S01E01
-https://proxy1.pixeldrainbypass.org/download/u8gzJWBZ
-#EXTINF:-1 group-title="Kurukshetra" tvg-logo="https://image.tmdb.org/t/p/original/gxDrBegd8URrxzo1baxegzS7aFj.png",S01E02
-https://proxy1.pixeldrainbypass.org/download/VPSwAmwK
+# --- 720p video ---
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,AUDIO="audio_group"
+https://proxy1.pixeldrainbypass.org/download/tqpmtZvv
 
+# --- 480p video ---
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=854x480,AUDIO="audio_group"
+https://proxy1.pixeldrainbypass.org/download/tqpmtZvv
 
-Peacemaker
-#EXTINF:-1 group-title="Peacemaker" tvg-logo="https://image.tmdb.org/t/p/original/1PUbmhKK52zCGjfoRM1IcIUcm1m.png",S02E01
-https://pixeldrain.dev/api/file/Ad7GPW1n/info/zip/Peacemaker.S02.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Ms/Peacemaker.S02E01.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u..Ms.mkv
-#EXTINF:-1 group-title="Peacemaker" tvg-logo="https://image.tmdb.org/t/p/original/1PUbmhKK52zCGjfoRM1IcIUcm1m.png",S02E02
-https://pixeldrain.dev/api/file/Ad7GPW1n/info/zip/Peacemaker.S02.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Ms/Peacemaker.S02E02.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Peacemaker" tvg-logo="https://image.tmdb.org/t/p/original/1PUbmhKK52zCGjfoRM1IcIUcm1m.png",S02E03
-https://pixeldrain.dev/api/file/Ad7GPW1n/info/zip/Peacemaker.S02.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Ms/Peacemaker.S02E03.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Peacemaker" tvg-logo="https://image.tmdb.org/t/p/original/1PUbmhKK52zCGjfoRM1IcIUcm1m.png",S02E04
-https://pixeldrain.dev/api/file/Ad7GPW1n/info/zip/Peacemaker.S02.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Ms/Peacemaker.S02E04.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Peacemaker" tvg-logo="https://image.tmdb.org/t/p/original/1PUbmhKK52zCGjfoRM1IcIUcm1m.png",S02E05
-https://pixeldrain.dev/api/file/Ad7GPW1n/info/zip/Peacemaker.S02.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Ms/Peacemaker.S02E05.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Peacemaker" tvg-logo="https://image.tmdb.org/t/p/original/1PUbmhKK52zCGjfoRM1IcIUcm1m.png",S02E06
-https://pixeldrain.dev/api/file/Ad7GPW1n/info/zip/Peacemaker.S02.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Ms/Peacemaker.S02E06.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u..Ms.mkv
-#EXTINF:-1 group-title="Peacemaker" tvg-logo="https://image.tmdb.org/t/p/original/1PUbmhKK52zCGjfoRM1IcIUcm1m.png",S02E07
-https://pixeldrain.dev/api/file/Ad7GPW1n/info/zip/Peacemaker.S02.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Ms/Peacemaker.S02E07.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Peacemaker" tvg-logo="https://image.tmdb.org/t/p/original/1PUbmhKK52zCGjfoRM1IcIUcm1m.png",S02E08
-https://pixeldrain.dev/api/file/Ad7GPW1n/info/zip/Peacemaker.S02.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Ms/Peacemaker.S02E08.1080p.10Bit.WEB-DL.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Ms.mkv
-
-
-
-
-Sakamoto Days 
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E01
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E02
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E02.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E03
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E03.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E04
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E04.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E05
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E05.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E06
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E06.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E07
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E07.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E08
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E08.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E09
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E09.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E10
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E10.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E11
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E11.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E12
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E12.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E13
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E13.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E14
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E14.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E15
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E15.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E16
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E16.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E17
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E17.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E18
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E18.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E19
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E19.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E20
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E20.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E21
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E21.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 group-title="Sakamoto Days" tvg-logo="https://image.tmdb.org/t/p/original/9FNOBrpV9dEsdZgfR7mXiNy0Wo2.png",S01E22
-https://pixeldrain.dev/api/file/srCYba3d/info/zip/SAKAMOTO.DAYS.S01.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms/SAKAMOTO.DAYS.S01E22.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv
-
-
-
-
-
-
-
-
-
-
-
+# --- Audio Tracks ---
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_group",NAME="English",LANGUAGE="en",DEFAULT=YES,AUTOSELECT=YES,URI="audio_eng.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_group",NAME="Hindi",LANGUAGE="hi",DEFAULT=NO,AUTOSELECT=YES,URI="audio_hin.m3u8"

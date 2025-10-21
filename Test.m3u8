@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:9999
+#EXT-X-MEDIA-SEQUENCE:0
+
+# duration is approximate; use actual duration if you know it
+#EXTINF:9999.000,
+https://proxy1.pixeldrainbypass.org/download/tqpmtZvv
+#EXT-X-ENDLIST

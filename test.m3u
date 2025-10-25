@@ -1,9 +1,13 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:9999
-#EXT-X-MEDIA-SEQUENCE:0
 
-# duration is approximate; use actual duration if you know it
-#EXTINF:9999.000,
-https://proxy1.pixeldrainbypass.org/download/tqpmtZvv
-#EXT-X-ENDLIST
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies", Superman (2025)
+https://pixeldrain.dev/api/file/X4iy6vFw?download
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies", Movie 2 (2024)
+https://example.com/movie2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series", Series S01E01
+https://example.com/series1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Live TV", Channel Name HD
+https://example.com/livechannel.m3u8
